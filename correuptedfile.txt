@@ -1,2 +1,4 @@
 get corrrupted files here >>
+2 files at a time and done eith the merge conflict
+
   
